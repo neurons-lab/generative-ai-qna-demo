@@ -1,0 +1,6 @@
+streamlit
+streamlit-chat
+langchain==0.0.198
+openai
+boto3
+tiktoken
